@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/home.svg</file>
+        <file>icons/booking.svg</file>
+        <file>icons/payment.svg</file>
+        <file>icons/field.svg</file>
+        <file>icons/customer.svg</file>
+        <file>icons/service.svg</file>
+        <file>icons/staff.svg</file>
+        <file>icons/stats.svg</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>styles/main.qss</file>
+    </qresource>
+</RCC>

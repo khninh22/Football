@@ -1,0 +1,5 @@
+# Dữ liệu runtime - Không commit vào Git
+*.dat
+*.bin
+backup/
+config.ini
